@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'TT Commons Pro';
+    src: url('TTCommonsPro-It.eot');
+    src: url('TTCommonsPro-It.eot?#iefix') format('embedded-opentype'),
+        url('TTCommonsPro-It.woff2') format('woff2'),
+        url('TTCommonsPro-It.ttf') format('truetype'),
+        url('TTCommonsPro-It.svg#TTCommonsPro-It') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Commons Pro';
+    src: url('TTCommonsPro-Bd.eot');
+    src: url('TTCommonsPro-Bd.eot?#iefix') format('embedded-opentype'),
+        url('TTCommonsPro-Bd.woff2') format('woff2'),
+        url('TTCommonsPro-Bd.ttf') format('truetype'),
+        url('TTCommonsPro-Bd.svg#TTCommonsPro-Bd') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Commons Pro';
+    src: url('TTCommonsPro-Rg.eot');
+    src: url('TTCommonsPro-Rg.eot?#iefix') format('embedded-opentype'),
+        url('TTCommonsPro-Rg.woff2') format('woff2'),
+        url('TTCommonsPro-Rg.ttf') format('truetype'),
+        url('TTCommonsPro-Rg.svg#TTCommonsPro-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
